@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, welcome to WormLab@Caltech. This is our GitHub website. (This)[] is our main website. We hope you can find everything you need here!
+Hi, welcome to WormLab@Caltech. This is our GitHub website. [This](http://wormlab.caltech.edu/) is our main website. We hope you can find everything you need here!
 
 
 ### Related sites
