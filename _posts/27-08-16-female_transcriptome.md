@@ -3,7 +3,7 @@ layout: post
 title: David and Daniel's preprint in Biorxiv
 ---
 
-Our new preprint, ['Transcriptomic Description of an Endogenous Female State in C. elegans']() was posted in Biorxiv today.
+Our new preprint, ['Transcriptomic Description of an Endogenous Female State in C. elegans'](http://biorxiv.org/content/early/2016/10/27/083113) was posted in Biorxiv today.
 
 Please read it and comment -- we will continue to modify the text and figures to improve the manuscript before peer-review, so any and all criticism is welcome!
 
